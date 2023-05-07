@@ -8,5 +8,6 @@ int main (){
     scanf ("%s", &st);
     printf ("%s", st);
     printf ("Hola mundo");
+    int a;
     return 0;
 }
