@@ -7,5 +7,6 @@ int main (){
     char st[100];
     scanf ("%s", &st);
     printf ("%s", st);
+    printf ("Hola mundo");
     return 0;
 }
